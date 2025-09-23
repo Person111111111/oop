@@ -1,6 +1,6 @@
 public class Introduction {
     public static void main(String[] args) {
-        System.out.println("Phạm Quốc An" + "\t" + "24021353" + "\t" + "CS5" + "\t" + "Person111111111");
+        System.out.println("Phạm Quốc An" + "\t" + "24021353" + "\t" + "CS5" + "\t" + "Person111111111" + "\t" + "24021353@vnu.edu.vn");
         for (int i=9; i>=1; i--) {
             if (i>1) System.out.println(i + " bottles of beer on the wall, " + i + " bottles of beer.");
             else System.out.println(i + " bottle of beer on the wall, " + i + " bottle of beer.");
